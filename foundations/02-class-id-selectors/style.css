@@ -1,0 +1,19 @@
+.class_default {
+    background-color: #ffb0ae;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#id_one {
+    font-size: 36px;
+    color: blue;
+}
+
+.odd_element {
+    font-size: 24px;
+}
+
+#third_element {
+    background-color: rgb(195, 255, 195);
+    font-size: 24px;
+    font-weight: bold;
+}
